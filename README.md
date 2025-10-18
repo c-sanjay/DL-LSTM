@@ -1,6 +1,6 @@
 # DL- Developing a Deep Learning Model for NER using LSTM
-# NAME: RAKSHITHA K
-# REGISTER NUMBER: 212223110039
+# NAME: SANJAY C
+# REGISTER NUMBER: 212223240150
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
@@ -39,9 +39,6 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: SANJAY C
-
-### Register Number: 212223240150
 
 ```python
 
